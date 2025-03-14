@@ -22,9 +22,8 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
 ---
 
-I'm Ruihan Zhu, a 3rd-year undergraduate student majoring in computer science, Zhejiang University. 
+I'm Ruihan Zhu, a 3rd-year undergraduate student majoring in computer science, Zhejiang University.
 
 My research interest includes efficitent ML, multimodal LM. Currently, I'm working on a project trying to improve the quality of multi-scene graphs.
